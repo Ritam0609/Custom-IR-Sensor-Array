@@ -281,8 +281,8 @@ B.Tech – Electronics & Communication Engineering
 University of Engineering and Management, Kolkata
 
 📧 **Email:** dasritam0609@gmail.com   
-💻 **GitHub:** [yourusername](https://github.com/yourusername)  
-🔗 **LinkedIn:** [Ritam Das](https://www.linkedin.com/in/yourusername/)
+💻 **GitHub:** [Ritam0609](https://github.com/Ritam0609)  
+🔗 **LinkedIn:** [Ritam Das](https://www.linkedin.com/in/ritam-das-uem)
 
 ---
 
