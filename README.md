@@ -4,6 +4,9 @@ Open-source custom infrared sensor array featuring custom PCB design, IR sensing
 
 A custom-designed infrared sensor array based on the **TCRT5000 reflective IR sensor**, developed for short-range object detection and proximity sensing.
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c908cd8f-5c19-419d-84af-f16e7cfc7c10" />
+
+Fig 1: Prototype of Custom IR Array Sensor
 ## Components Used
 
 | Component | Value / Type | Purpose |
@@ -128,6 +131,13 @@ Each sensor provides an individual detection signal that can be processed by the
 
 ---
 
+## Schematic 
+
+<img width="800" height="304" alt="schematic" src="https://github.com/user-attachments/assets/5667c077-cd5a-4402-aabc-28192e992fbb" />
+
+Fig 2: Schematic Design of the Custom Line Follower IR Array Sensor
+
+
 ## Working Distance
 
 The effective sensing distance of the TCRT5000 depends on several factors:
@@ -153,6 +163,15 @@ The effective sensing distance of the TCRT5000 depends on several factors:
 ## Testing and Results
 
 The sensor array was tested at different distances to evaluate its object-detection capability.
+
+<img width="700" height="400" alt="Sensor_Working" src="https://github.com/user-attachments/assets/8f76da0c-c3c9-48be-9ee6-a5c46dc04045" />
+
+Fig 3: Sensors active under the voltage of 3.3 V to 5 V
+
+<img width="427" height="310" alt="result" src="https://github.com/user-attachments/assets/2b75795b-fc08-490a-9051-fd7befa498f0" />
+
+Fig 4: Sensor giving Result while detecting a white surface
+
 
 | Distance | Detection Result |
 |---:|---|
@@ -248,6 +267,22 @@ Custom-IR-Sensor-Array/
 
 Custom IR Sensor Array  
 Electronics & Embedded Systems Project
+
+---
+
+---
+
+## Contact
+
+For questions, collaboration, or technical discussion regarding this project:
+
+**Ritam Das**  
+B.Tech – Electronics & Communication Engineering  
+University of Engineering and Management, Kolkata
+
+📧 **Email:** dasritam0609@gmail.com   
+💻 **GitHub:** [yourusername](https://github.com/yourusername)  
+🔗 **LinkedIn:** [Ritam Das](https://www.linkedin.com/in/yourusername/)
 
 ---
 
